@@ -8,3 +8,5 @@ This repository contains the code required to implement the analysis of a master
 
 The code allows us to depart from publicly available verbatim transcripts of debates to visualizations of the different topics that characterize the speech of different political parties in different legislative sessions.
 
+The repository is structured as follows:
+- "reading_files" allows us to read the publicly available files and integrate them in a single document.
